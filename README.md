@@ -1,16 +1,20 @@
-## Hi there 👋
+# chunn777
 
-<!--
-**chunn777/chunn777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+SE歴25年（1997〜2022）、ブランクを経て学び直し中。
 
-Here are some ideas to get you started:
+AI黎明期のいま、VB.NET・C#・Python・Javaを順に再習得しながら
+うつや体調と折り合いをつけて動ける状態を作っています。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 学習スタック（再習得中）
+- VB.NET / C# / ASP.NET
+- SQL / Oracle
+- Python
+- Java
+
+## 発信
+- [Zenn](https://zenn.dev/chunn777)
+- [note](https://note.com/chunn777)（予定）
+
+## このアカウントについて
+学習記録・コードメモを中心に置いていきます。
+完成品より「過程」を残す場所。
