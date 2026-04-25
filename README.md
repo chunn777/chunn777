@@ -13,7 +13,7 @@ AI黎明期のいま、VB.NET・C#・Python・Javaを順に再習得しながら
 
 ## 発信
 - [Zenn](https://zenn.dev/chunn777) / [自己紹介記事](https://zenn.dev/chunn777/articles/28b161bfba096b)
-- [note](https://note.com/chunn777)
+- [note](https://note.com/chunn777_rain)
 - 
 ## このアカウントについて
 学習記録・コードメモを中心に置いていきます。
